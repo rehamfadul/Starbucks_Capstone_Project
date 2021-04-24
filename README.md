@@ -12,7 +12,6 @@ Starbucks sends out an offer to users of the mobile app. An offer can be merely 
 - matplotlib
 - seaborn
 - sklearn
-- pickle
 
 ### Files:
 The data is contained in three files:
@@ -46,7 +45,7 @@ time (int) - time in hours since start of test. The data begins at time t=0
 value - (dict of strings) - either an offer id or transaction amount depending on the record
 
 ### Results
-The findings of this project's anslysis can be found HERE https://rehamfadul.medium.com/a-data-science-challenge-towards-better-starbucks-offers-ab1c0d4fe6e1.
+The findings of this project's anslysis can be found [HERE]:https://rehamfadul.medium.com/a-data-science-challenge-towards-better-starbucks-offers-ab1c0d4fe6e1.
 
 ### Acknowledgements
 This project is part of Udacity Data Scientist Nanodegree program.
